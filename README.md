@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on an Audio Patch device that can be controlled by an phone app through BLE.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m learning React Native and PCB design.
 - 📚 Electrical Engineering BsC @ TU/e
   
 
